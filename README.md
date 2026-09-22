@@ -4,6 +4,13 @@ A full-stack, intelligent Recipe Assistant built with the **Google Agent Develop
 
 ---
 
+## 🚀 Live Cloud Run Application
+
+Experience the live deployed application on Cloud Run:
+👉 **[https://recipe-assistant-frontend-519752822407.us-east1.run.app](https://recipe-assistant-frontend-519752822407.us-east1.run.app)**
+
+---
+
 ## 🎥 Demo Video
 
 Watch the agent in action executing recipe searches and generating AI food photography with A2UI card interfaces:
