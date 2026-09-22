@@ -4,6 +4,14 @@ A full-stack, intelligent Recipe Assistant built with the **Google Agent Develop
 
 ---
 
+## 🎥 Demo Video
+
+Watch the agent in action executing recipe searches and generating AI food photography with A2UI card interfaces:
+
+[![Recipe Assistant Demo Video](https://raw.githubusercontent.com/Teja3258/buildwithgemini-recipe-assistant/main/recipe_assistant_demo.webm)](https://github.com/Teja3258/buildwithgemini-recipe-assistant/blob/main/recipe_assistant_demo.webm)
+
+---
+
 ## 🌟 Architecture Overview
 
 ```
